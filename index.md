@@ -1,6 +1,6 @@
 ---
 title: "Cristian's Resume"
-layout: resume
+layout: page
 ---
 
 # Cristian Palomo-Ramirez
