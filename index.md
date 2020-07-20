@@ -6,10 +6,11 @@ layout: resume
 # Cristian Palomo-Ramirez
 
 ---
- *1072 Camelia Drivc
+*1072 Camelia Drivc
 Livermore, CA 94550
 (925) 518-9657
 cpalomoramirez@gmail.com*
+
 ---
 
 ### Skills
@@ -21,6 +22,7 @@ cpalomoramirez@gmail.com*
   - Git
   - HTML/CSS
   - Bilingual (Spanish)
+  
 ### Experience
 ---
 ##### HPC Cluster Academy Internship - Lawrence Livermore National Lab
